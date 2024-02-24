@@ -4,7 +4,7 @@ Use any modern python version to run the project's main scripts `app.py` and `ex
 The app uses SQLite to store measurements in `response_times.db` database.
 
 To use the app first init and activate venv e.g. in Windows:
-````
+```
 python -m venv venv
 venv\Scripts\activate
 ```
